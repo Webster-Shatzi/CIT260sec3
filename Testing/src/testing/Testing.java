@@ -7,7 +7,7 @@ package testing;
 
 /**
  *
- * @author Shatzi
+ * @author ShatziWebster
  */
 public class Testing {
 
@@ -15,7 +15,7 @@ public class Testing {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Testing");
+        System.out.println("Testing, testing.");
     }
     
 }
